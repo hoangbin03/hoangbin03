@@ -1,9 +1,19 @@
 ## Hi there 👋
 
-<!--
-**hoangbin03/hoangbin03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Chào mừng đến với trang GitHub của tôi!
 
-Here are some ideas to get you started:
+## Giới thiệu
+Xin chào! Tôi là Trần Văn Hoàng, một sinh viên đam mê công nghệ và phát triển phần mềm.
+
+## Kỹ năng
+- **Ngôn ngữ lập trình**: Python, Java, C#
+- **Framework**: Django, React, .NET
+- **Công nghệ**: Git, Docker, AWS
+
+## Liên hệ
+- **Email**: [tranhoang81003@icloud.com](mailto:tranhoang81003@icloud.com)
+- **Facebook**: [Facebook Profile](https://www.facebook.com/profile.php?id=100063883651212)
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -13,4 +23,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
