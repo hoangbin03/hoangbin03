@@ -5,7 +5,7 @@
 **Introduction**
 Hello! I am Tran Van Hoang, a student passionate about technology and software development.
 
-Skills 
+**Skills**
 **Progaming language**: Python, C++
 **Frameworks**: PyTorch, TensorFlow, Scikit-learn, Hugging Face
 **ML/DL**: Classification, Regression, CNN, RNN, GNN, Transformer, Transfer Learning
